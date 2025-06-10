@@ -1,7 +1,14 @@
+
+main {
+    margin-left: 200px;
+}
+
+
 .section-1 {
     display: flex !important;
     justify-content: flex-end;
 }
+
 
 .main-nav li {
     color: #636060;
@@ -15,7 +22,7 @@
     flex-wrap: wrap;
     justify-content: flex-end;
     margin-top: 33px;
-    margin-right: 78px
+    margin-right: 222px;
 }
 
 .owl-logo {
@@ -23,7 +30,7 @@
     height: 42px;
     margin-left: 178px;
     margin-top: 24px;
-    margin-right: 1188px;
+    margin-right: 790px;
 
 }
 
@@ -37,6 +44,7 @@
 
 .photo-one img {
     position: relative;
+
     
 }
 
@@ -50,14 +58,70 @@
     height: 91px;
     font-size: 79px;
     font-weight: 700;
-    left: 407px;
-    top: 300px;
+    left: 661px;
+    top: 311px;
 }
 
 .photo-one p {
     color: #FFFFFF;
-    left: 553px;
-    top: 400px;
+    left: 805px;
+    top: 405px;
 }
 
+main {
+    display: flex;
+}
+
+.section-left span {
+    color: #636060;
+    width: 235px;
+    height: 115px;
+    font-size: 20px;
+}
+
+.section-left {
+    margin-left: 100px;
+}
+
+.section-left-div {
+    margin-top: 84px;
+}
+
+.section-left p {
+    color: #636060;
+    font-size: 17px;
+    width: 89px;
+    height: 20px;
+}
+
+.section-left h1 {
+    font-size: 28px;
+    margin-top: 9px;
+    margin-bottom: 37px;
+}
+
+
+.section-right {
+   display: flex;
+   flex-wrap: wrap;
+   width: 957px ;
+   gap: 33px ;
+   margin-top: 84px;
+   margin-left: 83px;
+}
+
+
+.section-right p {
+    color: #636060;
+    font-size: 18px;
+
+}
+
+
+.section-right h1 {
+    font-size: 19px;
+    color: #343232;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
 
