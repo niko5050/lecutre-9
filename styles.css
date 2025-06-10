@@ -1,0 +1,29 @@
+header {
+    display: flex !important;
+    justify-content: flex-end;
+}
+
+.main-nav li {
+    color: #636060;
+}
+
+.main-nav ul {
+    display: flex;
+    width: 510px;
+    justify-content: space-around;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin-top: 33px;
+    margin-right: 78px
+}
+
+.owl-logo {
+    width: 33px;
+    height: 42px;
+    margin-left: 178px;
+    margin-top: 24px;
+    margin-right: 1188px;
+}
+
+
