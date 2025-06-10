@@ -1,4 +1,4 @@
-header {
+.section-1 {
     display: flex !important;
     justify-content: flex-end;
 }
@@ -24,6 +24,40 @@ header {
     margin-left: 178px;
     margin-top: 24px;
     margin-right: 1188px;
+
+}
+
+
+.photo-one {
+   display: block;
+   margin-top: 18px;
+   align-items: center;
+}
+
+
+.photo-one img {
+    position: relative;
+    
+}
+
+.photo-one h1, .photo-one p {
+    position: absolute;
+
+}
+.photo-one h1 {
+    color: #FFFFFF;
+    width: 625px;
+    height: 91px;
+    font-size: 79px;
+    font-weight: 700;
+    left: 407px;
+    top: 300px;
+}
+
+.photo-one p {
+    color: #FFFFFF;
+    left: 553px;
+    top: 400px;
 }
 
 
